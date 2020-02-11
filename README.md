@@ -1,0 +1,2 @@
+# LambdaTraining
+lambda in c++
